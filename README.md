@@ -1,3 +1,10 @@
 # cereal
 
 The Cereal API
+
+## Sources
+
+A number of sources were used while serving this up:
+
+* [Wikipedia's List of breakfast cereals](https://en.wikipedia.org/wiki/List_of_breakfast_cereals)
+* [MrBreakfast's The Cereal Project](https://www.mrbreakfast.com/cereal_home.asp)
