@@ -1,2 +1,3 @@
 # cereal
-A reference-able list of cereals
+
+The Cereal API
