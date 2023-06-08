@@ -4,7 +4,7 @@ The Cereal API
 
 ## Usage
 
-At its core, the Cereal API is a JSON object. So, to use it, just reference [cereal.json](cereal.json)!
+At its core, the Cereal API is a JSON file. So, to use it, just reference [cereal.json](cereal.json)!
 
 ## Sources
 
