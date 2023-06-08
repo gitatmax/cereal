@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "name": "Cereal API",
+    "website": "",
+    "description": "The Cereal API is an open source and free API that provides information on breakfast cereals, including their name, availability dates.",
+    "version": "1.0.0",
+    "date": "2023-06-08"
+  },
+  "cereals": [
+    {
+      "id": 1,
+      "name": "All-Bran",
+      "date": "1916—present"
+    },
+    {
+      "id": 2,
+      "name": "Alpha-Bits",
+      "date": "1958—2021"
+    },
+    {
+      "id": 3,
+      "name": "The Amazing Spider-Man Cereal",
+      "date": "2012"
+    },
+    {
+      "id": 4,
+      "name": "Apple Jacks",
+      "date": "1965—present"
+    },
+    {
+      "id": 5,
+      "name": "Autumn O's",
+      "date": "1997—present"
+    },
+    {
+      "id": 6,
+      "name": "Baby Shark Cereal",
+      "date": "2019—present"
+    },
+    {
+      "id": 7,
+      "name": "Bart Simpson's No ProblemO's",
+      "date": "2002"
+    },
+    {
+      "id": 8,
+      "name": "Bart Simpson's Eat My Shorts",
+      "date": "2003"
+    },
+    {
+      "id": 9,
+      "name": "Bart Simpson Peanut Butter Chocolate Crunch",
+      "date": "2001"
+    },
+    {
+      "id": 10,
+      "name": "Boo Berry",
+      "date": "1973—present / seasonal since 2010"
+    }
+  ]
+}
