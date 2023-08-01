@@ -1,21 +1,20 @@
 {
   "meta": {
     "name": "Cereal API",
-    "website": "",
     "description": "The Cereal API is an open source and free API that provides information on breakfast cereals, including their name, availability dates.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2023-06-08"
   },
   "cereals": [
     {
       "id": 1,
       "name": "All-Bran",
-      "date": "1916—present"
+      "date": "1916\u2014present"
     },
     {
       "id": 2,
       "name": "Alpha-Bits",
-      "date": "1958—2021"
+      "date": "1958\u20142021"
     },
     {
       "id": 3,
@@ -25,17 +24,17 @@
     {
       "id": 4,
       "name": "Apple Jacks",
-      "date": "1965—present"
+      "date": "1965\u2014present"
     },
     {
       "id": 5,
       "name": "Autumn O's",
-      "date": "1997—present"
+      "date": "1997\u2014present"
     },
     {
       "id": 6,
       "name": "Baby Shark Cereal",
-      "date": "2019—present"
+      "date": "2019\u2014present"
     },
     {
       "id": 7,
@@ -55,7 +54,202 @@
     {
       "id": 10,
       "name": "Boo Berry",
-      "date": "1973—present / seasonal since 2010"
+      "date": "1973\u2014present / seasonal since 2010"
+    },
+    {
+      "id": 11,
+      "name": "Cap'n Crunch",
+      "date": "1963\u2014present"
+    },
+    {
+      "id": 12,
+      "name": "Cheerios",
+      "date": "1941\u2014present"
+    },
+    {
+      "id": 13,
+      "name": "Cinnamon Toast Crunch",
+      "date": "1984\u2014present"
+    },
+    {
+      "id": 14,
+      "name": "Corn Flakes",
+      "date": "1894\u2014present"
+    },
+    {
+      "id": 15,
+      "name": "Froot Loops",
+      "date": "1963\u2014present"
+    },
+    {
+      "id": 16,
+      "name": "Frosted Flakes",
+      "date": "1952\u2014present"
+    },
+    {
+      "id": 17,
+      "name": "Golden Grahams",
+      "date": "1975\u2014present"
+    },
+    {
+      "id": 18,
+      "name": "Honey Bunches of Oats",
+      "date": "1986\u2014present"
+    },
+    {
+      "id": 19,
+      "name": "Honey Nut Cheerios",
+      "date": "1979\u2014present"
+    },
+    {
+      "id": 20,
+      "name": "Life Cereal",
+      "date": "1961\u2014present"
+    },
+    {
+      "id": 21,
+      "name": "Lucky Charms",
+      "date": "1964\u2014present"
+    },
+    {
+      "id": 22,
+      "name": "Oreo O's",
+      "date": "1998\u20142007, 2017\u2014present"
+    },
+    {
+      "id": 23,
+      "name": "Raisin Bran",
+      "date": "1942\u2014present"
+    },
+    {
+      "id": 24,
+      "name": "Rice Krispies",
+      "date": "1928\u2014present"
+    },
+    {
+      "id": 25,
+      "name": "Special K",
+      "date": "1955\u2014present"
+    },
+    {
+      "id": 26,
+      "name": "Trix",
+      "date": "1954\u2014present"
+    },
+    {
+      "id": 27,
+      "name": "Wheaties",
+      "date": "1924\u2014present"
+    },
+    {
+      "id": 28,
+      "name": "Cocoa Puffs",
+      "date": "1958\u2014present"
+    },
+    {
+      "id": 29,
+      "name": "Cookie Crisp",
+      "date": "1977\u2014present"
+    },
+    {
+      "id": 30,
+      "name": "Count Chocula",
+      "date": "1971\u2014present"
+    },
+    {
+      "id": 31,
+      "name": "Fruity Pebbles",
+      "date": "1971\u2014present"
+    },
+    {
+      "id": 32,
+      "name": "Cocoa Pebbles",
+      "date": "1971\u2014present"
+    },
+    {
+      "id": 33,
+      "name": "Pops",
+      "date": "1950\u2014present"
+    },
+    {
+      "id": 34,
+      "name": "Reese's Puffs",
+      "date": "1994\u2014present"
+    },
+    {
+      "id": 35,
+      "name": "Kix",
+      "date": "1937\u2014present"
+    },
+    {
+      "id": 36,
+      "name": "Shredded Wheat",
+      "date": "1893\u2014present"
+    },
+    {
+      "id": 37,
+      "name": "Honeycomb",
+      "date": "1965\u2014present"
+    },
+    {
+      "id": 38,
+      "name": "Golden Crisp",
+      "date": "1948\u2014present"
+    },
+    {
+      "id": 39,
+      "name": "Honey Smacks",
+      "date": "1953\u2014present"
+    },
+    {
+      "id": 40,
+      "name": "Crispix",
+      "date": "1983\u2014present"
+    },
+    {
+      "id": 41,
+      "name": "Waffle Crisp",
+      "date": "1996\u20142018"
+    },
+    {
+      "id": 42,
+      "name": "Grape-Nuts",
+      "date": "1897\u2014present"
+    },
+    {
+      "id": 43,
+      "name": "Chex",
+      "date": "1937\u2014present"
+    },
+    {
+      "id": 44,
+      "name": "Corn Pops",
+      "date": "1951\u2014present"
+    },
+    {
+      "id": 45,
+      "name": "French Toast Crunch",
+      "date": "1995\u20142006, 2014\u2014present"
+    },
+    {
+      "id": 46,
+      "name": "Quisp",
+      "date": "1965\u2014present"
+    },
+    {
+      "id": 47,
+      "name": "Uncle Sam Cereal",
+      "date": "1908\u2014present"
+    },
+    {
+      "id": 48,
+      "name": "Yogi Bear's Honey Crunch",
+      "date": "1987\u20141989"
+    },
+    {
+      "id": 49,
+      "name": "Zucaritas (Spanish version of Frosted Flakes)",
+      "date": "1952\u2014present"
     }
   ]
 }
